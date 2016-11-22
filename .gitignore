@@ -1,0 +1,4 @@
+.idea/
+src/main/resources/client_secret.json
+.DS_Store*
+build/
